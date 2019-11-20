@@ -14,7 +14,7 @@ By the end of this, developers should be able to:
 ## Preparation
 
 1. Fork and clone this repository
-1. Create a new branch, `training`, for your work and change into it.
+<!-- 1. Create a new branch, `training`, for your work and change into it. -->
 
 # # JS Loops
 
